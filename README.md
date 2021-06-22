@@ -11,3 +11,10 @@
 * UISlider
 * UIStepper
 * UISwitch
+* UIActivityIndicatorView
+* UIImageView
+* UIProgressView
+* UIPickerView
+
+### Preface :-
+1 

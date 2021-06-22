@@ -24,8 +24,6 @@
 * At the End you will also,share your feedback with us by Giving Rates and Some Messages.
 
 ### Some Pictures Of Application :-
-![Screenshot 2021-06-23 045624](https://user-images.githubusercontent.com/84233147/122920731-537de900-d37f-11eb-92d8-64b8516ccfa8.png)
-
 
 ![Screenshot 2021-06-23 045624](https://user-images.githubusercontent.com/84233147/122920565-29c4c200-d37f-11eb-8127-1533871bc0d0.png)
 

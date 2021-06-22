@@ -1,3 +1,5 @@
+![Screenshot 2021-06-23 045715](https://user-images.githubusercontent.com/84233147/122921497-30a00480-d380-11eb-94da-061fceb90ac6.png)
+![Screenshot 2021-06-23 050004](https://user-images.githubusercontent.com/84233147/122921526-372e7c00-d380-11eb-8763-0c29f207994f.png)
 
 # UIelements
 ## Registration of Train Ticket
@@ -41,7 +43,6 @@
 
 
 ![Screenshot 2021-06-23 050210](https://user-images.githubusercontent.com/84233147/122921222-ddc64d00-d37f-11eb-8d8c-62ecaf094561.png)
-
 
 
 ![Screenshot 2021-06-23 050004](https://user-images.githubusercontent.com/84233147/122921137-c6875f80-d37f-11eb-837c-4b080c32a6cc.png)

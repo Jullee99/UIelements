@@ -7,7 +7,6 @@
 * UITextView
 * UIButton
 * UIDatePicker
-* UIPageControl
 * UISegmentedControl
 * UISlider
 * UIStepper
